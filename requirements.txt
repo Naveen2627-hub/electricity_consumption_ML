@@ -2,3 +2,4 @@ ipykernel
 pandas
 -U scikit-learn
 seaborn
+xgboost scikit-learn
